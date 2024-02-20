@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Full-stack web developing.
-- 🌱 I’m currently learning REACT, DRUPAL, PHP, Javascript, HTML, CSS
+- 🌱 I’m learning REACT, DRUPAL, PHP, Javascript, HTML, CSS
 - 📫 How to reach me: tranduclong092@gmail.com / Text, Whatsapp: +358 45 7838 9999
 <!-- 
 - 👯 I’m looking to collaborate on ...
