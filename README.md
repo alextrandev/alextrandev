@@ -12,8 +12,6 @@
 
 - 📫 To hire me, collaborate or just chat: **tranduclong092@gmail.com**
 
-- 📄 My experiences **WordPress Developer, Front-end Developer (Webflow, Wordpress)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tduclong" target="blank">
