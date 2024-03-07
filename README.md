@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=dk10119&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level)
+![Codewars](https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level)
