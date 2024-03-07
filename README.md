@@ -3,14 +3,15 @@
 <!-- <kbd align="right"> -->
     <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyMG01eWo2bWs4azVpZDZpazZqbzhvdXFwNGppZ2szcXl4Y2J1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding penguin">
 <!-- </kbd> -->
+- 📄 I have 2 years experience in **Front-end Web Dev** (Webflow, Wordpress)
 
-- 🔭 I’m currently study **Full-stack Programming at Business College Helsinki**
+- 🔭 I’m studying **Fullstack Programming** at Business College Helsinki
 
 - 🌱 I’m currently learning **React, Tailwind, PHP, Drupal**
 
 - 🤝 I’m looking for a traineeship in **Junior Software Developer**
 
-- 📫 To hire me, collaborate or just chat: **tranduclong092@gmail.com**
+- 📫 You can contact me via **tranduclong092@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +22,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaxc_" height="40" width="50" />
     </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
