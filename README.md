@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! Welcome to my Github profile 👋</h1>
 <h3 align="center">This is my journey to become a Full-stack developer</h3>
 <kbd align="right">
-    <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyMG01eWo2bWs4azVpZDZpazZqbzhvdXFwNGppZ2szcXl4Y2J1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding penguin">
+    <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyMG01eWo2bWs4azVpZDZpazZqbzhvdXFwNGppZ2szcXl4Y2J1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding penguin">
 </kbd>
 
 - 🔭 I’m currently study **Full-stack Programming at Business College Helsinki**
