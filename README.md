@@ -8,10 +8,14 @@
 
 - 🤝 I’m looking for a traineeship in **Junior Software Developer**
 
+- 📫 How to reach me **tranduclong092@gmail.com**
+
+- 📄 My experiences **WordPress Developer, Front-end Developer (Webflow, Wordpress)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tduclong" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tduclong" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tduclong" height="30" width="30" />
     </a>
     <a href="https://discord.gg/kaxc_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaxc_" height="40" width="50" />
