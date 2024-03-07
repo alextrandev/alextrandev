@@ -13,7 +13,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tduclong" height="30" width="40" />
     </a>
     <a href="https://discord.gg/kaxc_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaxc_" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaxc_" height="40" width="50" />
     </a>
 </p>
 
@@ -35,9 +35,9 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="320" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="299" />
 </p>
 
 <p>
-      <img align="center" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" width="320"/>
+      <img align="right" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" width="299" height="163.35"/>
 </p>
