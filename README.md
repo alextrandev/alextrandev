@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Tran</h1>
 <h3 align="center">Full-stack developer</h3>
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyMG01eWo2bWs4azVpZDZpazZqbzhvdXFwNGppZ2szcXl4Y2J1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding penguin">
 
 - 🔭 I’m currently study **Full-stack Programming at Business College Helsinki**
 
@@ -10,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tduclong" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tduclong" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tduclong" height="30" width="40" />
     </a>
     <a href="https://discord.gg/kaxc_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaxc_" height="40" width="50" />
@@ -35,7 +36,7 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="405" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="406" />
 </p>
 
 <p>
