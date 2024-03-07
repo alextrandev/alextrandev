@@ -35,9 +35,9 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="410" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="405" />
 </p>
 
 <p>
-      <img align="right" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" width="410"/>
+      <img align="right" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" width="405"/>
 </p>
