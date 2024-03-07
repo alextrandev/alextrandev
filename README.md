@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="nextjs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -35,13 +35,9 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dk10119&show_icons=true&locale=en" alt="dk10119" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&locale=en&layout=compact" alt="dk10119" width="320" />
 </p>
 
 <p>
-      <img align="right" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" />
+      <img align="center" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&theme=gradient_purple_light_by_level" width="320"/>
 </p>
