@@ -36,9 +36,9 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&theme=dark&title_color=b86bea&bg_color=ffffff&locale=en&layout=compact" alt="dk10119" width="318" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dk10119&show_icons=true&theme=dark&title_color=b86bea&bg_color=ffffff&locale=en&layout=compact" alt="dk10119" width="328" />
 </p>
 
 <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dk10119&" alt="dk10119" width="488"/>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dk10119&" alt="dk10119" width="478"/>
 </p>
