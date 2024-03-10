@@ -40,5 +40,5 @@
 </p>
 
 <p>
-      <img align="right" src="https://github.r2v.ch/codewars?user=dk10119&hide_clan=true&top_languages=true&stroke=%23e4e2e2&theme=gradient_purple_light_by_level" width="398"/>
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dk10119&" alt="dk10119" width="398"/>
 </p>
