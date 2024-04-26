@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! Welcome to my Github profile 👋</h1>
-<h3 align="center">This is my journey to become a Full-stack developer</h3>
+<h3 align="center">I am a Full-stack developer based in Helsinki</h3>
 
 <img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyMG01eWo2bWs4azVpZDZpazZqbzhvdXFwNGppZ2szcXl4Y2J1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding penguin">
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m studying **Fullstack Programming** at Business College Helsinki
 
-- 🌱 I’m currently learning **React, Tailwind, PHP, Drupal**
+- 🌱 I’m currently learning **Symfony, Drupal, React, DevOps**
 
-- 🤝 I’m looking for a traineeship in **Junior Software Developer**
+- 🤝 I’m looking for a traineeship in **Back-end/ Full-stack Developer**
 
 - 📫 You can contact me via **tranduclong092@gmail.com**
 
