@@ -3,7 +3,10 @@
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/be665f63-2fdc-46c5-a0a8-da673238da54" alt="Coding penguin">
 
-I have 2 years of experience in web design, CMS, and digital marketing. I hold a bachelor's degree in web design and development. I recently completed a Fullstack Development program and looking to build a career in this field. 📫 You can contact me via **tranduclong092@gmail.com**
+I have 2 years of experience in web design, CMS, and digital marketing.<br/>
+I hold a bachelor's degree in web design and development.<br/>
+I recently completed a Fullstack Development program and looking to build a career in this field.<br/>
+📫 You can contact me via **tranduclong092@gmail.com**
 
 ### My skills:
 - I am confident in leading Scrum and Agile projects
@@ -13,7 +16,7 @@ I have 2 years of experience in web design, CMS, and digital marketing. I hold a
 - I can use and help creating CI/CD tools and pipelines.
 
 ### Other interesting stuff about me:
-- I love networking meet-up events. I am a frequent goer of HelsinkiJS, Drupal events and coding club.
+- I love networking, meet-up events and hackathons. I am a frequent goer of HelsinkiJS, Junction, Slush, Drupal events and coding club.
 - I am passionate about everything related to technology e.g computer science, space, and machine learning.
 - I love gaming. I play a lot of games in many different platforms. I can also build and mod gaming PCs.
 
@@ -47,7 +50,8 @@ I have 2 years of experience in web design, CMS, and digital marketing. I hold a
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/symfony.svg" alt="Symfony" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/256/5968/5968691.png" alt="Drupal" width="40" height="40"/>
 </p>
-<p>Front end: Bootstrap, Tailwind, Material UI (MUI), Framer<br/>
+<p>Front end: Redux, Bootstrap, Tailwind, Material UI (MUI), Framer<br/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="40" height="40"/>
@@ -74,5 +78,5 @@ I have 2 years of experience in web design, CMS, and digital marketing. I hold a
 ### GitHub stats
 <p align="left">
     <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=alextrandev&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs&line_height=22&hide_title=true&hide=stars,issues" width="400"/>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&card_height=180" alt="alextrandev" width="400"/>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&card_height=180" alt="alextrandev" width="400" height="145"/>
 </p>
