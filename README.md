@@ -6,7 +6,8 @@
 I have 2 years of experience in web design, CMS, and digital marketing.<br/>
 I hold a bachelor's degree in web design and development.<br/>
 I recently completed a Fullstack Development program and looking to build a career in this field.<br/>
-📫 You can contact me via **tranduclong092@gmail.com**
+📫 You can contact me via **tranduclong092@gmail.com**<br/>
+🌐 Checkout my portfolio at **[https://alextran.dev](https://alextran.dev)**
 
 ### My skills:
 - I am confident in leading Scrum and Agile projects
