@@ -82,9 +82,9 @@ I recently completed a Fullstack Development program and looking to build a care
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&card_height=180" alt="alextrandev" width="400" height="145"/>
 </p>
 
-### ???
+### Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake.svg" />
 </picture>
