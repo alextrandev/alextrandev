@@ -81,3 +81,10 @@ I recently completed a Fullstack Development program and looking to build a care
     <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=alextrandev&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs&line_height=22&hide_title=true&hide=stars,issues" width="400"/>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&card_height=180" alt="alextrandev" width="400" height="145"/>
 </p>
+
+### ???
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
