@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/be665f63-2fdc-46c5-a0a8-da673238da54" alt="Coding penguin">
 
-I have 2 years of experience in web design, CMS, and digital marketing.<br/>
+I have 4+ years of experience in web development and web design.<br/>
 I hold a bachelor's degree in web design and development.<br/>
-I recently completed a Fullstack Development program and looking to build a career in this field.<br/>
+I am currently working as a software developer at Hobbly Technologies Oy.<br/>
 📫 You can contact me via **tranduclong092@gmail.com**<br/>
 🌐 Checkout my portfolio at **[https://alextran.dev](https://alextran.dev)**
 
