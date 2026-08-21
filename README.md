@@ -25,18 +25,10 @@ I am currently working as a software engineer at One Lion Company.<br/>
 
 ### Connect with me:
 <p align="left">
-    <a href="https://linkedin.com/in/tduclong" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tduclong" height="30" width="30" />
-    </a>
-    <a href="https://www.drupal.org/u/alextran" target="blank">
-        <img align="center" src="https://cdn.simpleicons.org/drupal" alt="alextran" height="30" width="30" />
-    </a>
-    <a href="https://app.daily.dev/alextran53" target="blank">
-        <img align="center" src="https://cdn.simpleicons.org/dailydotdev" alt="alextran53" height="30" width="30" />
-    </a>
-    <a href="https://www.instagram.com/dk10119" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk10119" height="40" width="50" />
-    </a>
+    <a href="https://linkedin.com/in/tduclong" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tduclong" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.drupal.org/u/alextran" target="blank"><img align="center" src="https://cdn.simpleicons.org/drupal" alt="alextran" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://app.daily.dev/alextran53" target="blank"><img align="center" src="https://cdn.simpleicons.org/dailydotdev" alt="alextran53" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/dk10119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk10119" height="40" width="50" /></a>
 </p>
 
 ### My tech stack:
@@ -61,7 +53,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/symfony.svg" alt="Symfony" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/symfony/8A8A8A" alt="Symfony" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/256/5968/5968691.png" alt="Drupal" width="40" height="40"/>
 </p>
 <p>APIs & databases: PostgreSQL, MySQL, MongoDB, Prisma ORM, REST & GraphQL APIs, Stripe integrations<br/>
@@ -77,7 +69,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="40" height="40"/>
     <img src="https://cdn.simpleicons.org/shadcnui/8A8A8A" alt="shadcn/ui" width="40" height="40"/>
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/framer.svg" alt="Framer Motion" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/framer/8A8A8A" alt="Framer Motion" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/wordpress.svg" alt="WordPress" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="Webflow" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
@@ -96,7 +88,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
 <p>Testing & quality: Vitest, Jest, Cypress, SonarQube<br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-    <img src="https://static-00.iconduck.com/assets.00/cypress-icon-1024x1022-1sbqakuv.png" alt="Cypress" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
 </p>
 
