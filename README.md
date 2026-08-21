@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! Welcome to my Github profile 👋</h1>
 <h3 align="center">I am an AI-driven Software engineer</h3>
 
-<img align="right" width="450" src="assets/penguin.gif" alt="Coding penguin">
+<img align="right" width="400" src="assets/penguin.gif" alt="Coding penguin">
 
 I have 6+ years of experience in software development and web design.<br/>
 I hold a BBA in Business Information Technology and a degree in full-stack programming.<br/>
