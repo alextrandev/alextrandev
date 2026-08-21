@@ -21,7 +21,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
 - I am passionate about everything related to technology e.g computer science, space, and machine learning.
 - I love gaming. I play a lot of games in many different platforms. I can also build and mod gaming PCs.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alextrandev&show_icons=true&theme=dark&title_color=b86bea&bg_color=ffffff&locale=en&layout=compact" alt="alextrandev" width="330" />
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextrandev&theme=github_dark" alt="alextrandev" width="330" />
 
 ### Connect with me:
 <p align="left">
@@ -94,7 +94,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
 
 ### GitHub stats
 <p align="left">
-    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=alextrandev&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs&line_height=22&hide_title=true&hide=stars,issues" width="400"/>
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" width="400"/>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&card_height=180" alt="alextrandev" width="400" height="145"/>
 </p>
 
