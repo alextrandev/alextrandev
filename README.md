@@ -95,7 +95,7 @@ I am currently working as a software engineer at One Lion Company.<br/>
 ### GitHub stats
 <p align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" alt="GitHub stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&theme=github-dark-blue" alt="GitHub streak" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alextrandev&theme=github-dark-blue&border=2e343b" alt="GitHub streak" height="180"/>
 </p>
 
 ### Contributions
