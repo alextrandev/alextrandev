@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! Welcome to my Github profile 👋</h1>
-<h3 align="center">I am a Software engineer based in Helsinki</h3>
+<h3 align="center">I am an AI-driven Software engineer</h3>
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/be665f63-2fdc-46c5-a0a8-da673238da54" alt="Coding penguin">
 
