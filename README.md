@@ -1,9 +1,12 @@
-<img src="assets/banner.svg" alt="Alex Tran — AI-driven Software Engineer" width="1200"/>
+<picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg"/>
+    <img src="assets/banner.svg" alt="Alex Tran — AI-driven Software Engineer" width="1200"/>
+</picture>
 
 <p align="center">
     <a href="https://alextran.dev"><img src="https://img.shields.io/badge/alextran.dev-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://linkedin.com/in/tduclong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-    <a href="mailto:tranduclong092@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:tranduclong092@gmail.com"><img src="https://img.shields.io/badge/tranduclong092@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.drupal.org/u/alextran"><img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"/></a>
     <a href="https://app.daily.dev/alextran53"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"/></a>
     <a href="https://www.instagram.com/dk10119"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -11,11 +14,15 @@
 
 ## 🙋 About me
 
-<img align="right" width="400" src="assets/penguin.gif" alt="Coding penguin">
+<picture>
+    <source media="(max-width: 600px)" srcset="assets/penguin-mobile.gif"/>
+    <img align="right" width="400" src="assets/penguin.gif" alt="Coding penguin"/>
+</picture>
 
 I have 6+ years of experience in software development and web design.<br/>
 I hold a BBA in Business Information Technology and a degree in full-stack programming.<br/>
-I am currently working as a software engineer at One Lion Company.<br/>
+I am currently working as a software engineer at One Lion Company.
+
 📫 Reach me anytime at `tranduclong092@gmail.com`
 
 - 🚀 I engineer products end to end — mobile apps, APIs, databases and cloud infrastructure
@@ -105,44 +112,44 @@ I am currently working as a software engineer at One Lion Company.<br/>
 
 ## 🚀 Featured projects
 
-<table>
-    <tr>
-        <td align="center" width="33%">
-            <a href="https://www.sijaismestari.fi/"><img src="assets/projects/Sijaismestari-thumbnail.webp" alt="Sijaismestari"/></a>
-            <br/><b>Sijaismestari</b><br/>
-            <sub>Substitute staffing platform for Finnish education — matching qualified workers with open shifts</sub><br/>
-            <sub><code>React Native</code> <code>Expo</code> <code>Django</code></sub><br/>
-            <a href="https://www.sijaismestari.fi/">Website</a> ·
-            <a href="https://apps.apple.com/fi/app/sijaismestari/id6784601798">App Store</a> ·
-            <a href="https://play.google.com/store/apps/details?id=com.nonitech.sijaismestari">Google Play</a>
-        </td>
-        <td align="center" width="33%">
-            <a href="https://www.netinturva.fi/"><img src="assets/projects/NetinTurva-thumbnail.webp" alt="Netin Turva"/></a>
-            <br/><b>Netin Turva</b><br/>
-            <sub>Interactive digital security assessment and webstore for cybersecurity subscriptions</sub><br/>
-            <sub><code>Next.js</code> <code>Tailwind</code> <code>PostgreSQL</code></sub><br/>
-            <a href="https://www.netinturva.fi/">Website</a>
-        </td>
-        <td align="center" width="33%">
-            <a href="https://hobbly.app/"><img src="assets/projects/Hobbly-thumbnail.webp" alt="Hobbly"/></a>
-            <br/><b>Hobbly</b><br/>
-            <sub>Local activities platform — from idea to the app stores</sub><br/>
-            <sub><code>React Native</code> <code>Laravel</code> <code>AWS</code></sub><br/>
-            <a href="https://hobbly.app/">Website</a> ·
-            <a href="https://apps.apple.com/us/app/hobbly/id6746831794">App Store</a> ·
-            <a href="https://play.google.com/store/apps/details?id=com.hobbly.app">Google Play</a>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <a href="https://www.sijaismestari.fi/"><img src="assets/projects/Sijaismestari-thumbnail.webp" alt="Sijaismestari" width="640"/></a><br/>
+    <b>Sijaismestari</b><br/>
+    <sub>Substitute staffing platform for Finnish education — matching qualified workers with open shifts</sub><br/>
+    <sub><code>React Native</code> <code>Expo</code> <code>Django</code></sub><br/>
+    <a href="https://www.sijaismestari.fi/">Website</a> ·
+    <a href="https://apps.apple.com/fi/app/sijaismestari/id6784601798">App Store</a> ·
+    <a href="https://play.google.com/store/apps/details?id=com.nonitech.sijaismestari">Google Play</a>
+</p>
+
+<p align="center">
+    <a href="https://www.netinturva.fi/"><img src="assets/projects/NetinTurva-thumbnail.webp" alt="Netin Turva" width="640"/></a><br/>
+    <b>Netin Turva</b><br/>
+    <sub>Interactive digital security assessment and webstore for cybersecurity subscriptions</sub><br/>
+    <sub><code>Next.js</code> <code>Tailwind</code> <code>PostgreSQL</code></sub><br/>
+    <a href="https://www.netinturva.fi/">Website</a>
+</p>
+
+<p align="center">
+    <a href="https://hobbly.app/"><img src="assets/projects/Hobbly-thumbnail.webp" alt="Hobbly" width="640"/></a><br/>
+    <b>Hobbly</b><br/>
+    <sub>Local activities platform — from idea to the app stores</sub><br/>
+    <sub><code>React Native</code> <code>Laravel</code> <code>AWS</code></sub><br/>
+    <a href="https://hobbly.app/">Website</a> ·
+    <a href="https://apps.apple.com/us/app/hobbly/id6746831794">App Store</a> ·
+    <a href="https://play.google.com/store/apps/details?id=com.hobbly.app">Google Play</a>
+</p>
 
 <p align="center">See more of my work at <a href="https://alextran.dev/projects"><b>alextran.dev/projects</b></a></p>
 
 ## 📊 GitHub stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" alt="GitHub stats" height="170"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextrandev&theme=github_dark" alt="Top languages" height="170"/>
-    <img src="https://raw.githubusercontent.com/alextrandev/alextrandev/streak-output/streak.svg" alt="GitHub streak" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" alt="GitHub stats" width="420"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextrandev&theme=github_dark" alt="Top languages" width="420"/>
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alextrandev/alextrandev/streak-output/streak.svg" alt="GitHub streak" width="500"/>
 </p>
 
 ## 🐍 Contributions
