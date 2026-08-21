@@ -16,18 +16,17 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - uses: actions/checkout@v4
-
       # the public streak-stats instances are slow and often time out behind
       # GitHub's camo proxy, so fetch the card here with patient retries and
-      # commit it as a static asset instead of hotlinking it in the README
+      # serve it from a throwaway branch instead of hotlinking it in the README
       - name: fetch streak card
         run: |
+          mkdir -p dist
           params="user=${{ github.repository_owner }}&theme=github-dark-blue&border=2e343b"
           for host in "https://streak-stats.demolab.com" "https://github-readme-streak-stats.herokuapp.com"; do
             for attempt in 1 2 3; do
               if curl -sf --max-time 120 "$host/?$params" -o /tmp/streak.svg && grep -q "<svg" /tmp/streak.svg; then
-                cp /tmp/streak.svg assets/streak.svg
+                cp /tmp/streak.svg dist/streak.svg
                 exit 0
               fi
               sleep 15
@@ -36,12 +35,12 @@ jobs:
           echo "all fetch attempts failed" >&2
           exit 1
 
-      - name: commit updated card
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/streak.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "Update streak card"
-            git push
-          fi
+      # force-push dist to the streak-output branch, same pattern as snake.yml,
+      # so the daily refresh never adds commits to main
+      - name: push streak.svg to the streak-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: streak-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

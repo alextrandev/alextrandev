@@ -1,0 +1,49 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex Tran — AI-driven Software Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#bc8cff;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#bc8cff">
+        <animate attributeName="stop-color" values="#bc8cff;#58a6ff;#bc8cff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#bc8cff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#21262d"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="0.5" y="0.5" width="1199" height="299" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#0d1117" stroke="#2e343b"/>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1200" height="300" fill="url(#dots)"/>
+    <circle cx="1050" cy="40" r="260" fill="url(#glowBlue)"/>
+    <circle cx="130" cy="270" r="240" fill="url(#glowPurple)"/>
+
+    <g font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" fill="#21262d" font-weight="700">
+      <text x="80" y="110" font-size="54">&#123;</text>
+      <text x="150" y="230" font-size="40">&lt;/&gt;</text>
+      <text x="1090" y="220" font-size="54">&#125;</text>
+      <text x="990" y="120" font-size="34">;</text>
+    </g>
+
+    <g font-family="-apple-system, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="132" font-size="62" font-weight="800" letter-spacing="1" fill="#f0f6fc">Alex Tran</text>
+      <text x="600" y="185" font-size="27" font-weight="600" letter-spacing="4" fill="url(#accent)">AI-DRIVEN SOFTWARE ENGINEER</text>
+      <text x="600" y="230" font-size="16" fill="#8b949e">Building products end to end &#8212; mobile apps, APIs, databases &amp; cloud</text>
+    </g>
+
+    <rect x="540" y="252" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+  </g>
+</svg>

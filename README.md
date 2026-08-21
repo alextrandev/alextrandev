@@ -1,106 +1,156 @@
-<h1 align="center">Hi there! Welcome to my Github profile 👋</h1>
-<h3 align="center">I am an AI-driven Software engineer</h3>
+<img src="assets/banner.svg" alt="Alex Tran — AI-driven Software Engineer" width="1200"/>
+
+<p align="center">
+    <a href="https://alextran.dev"><img src="https://img.shields.io/badge/alextran.dev-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/tduclong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+    <a href="mailto:tranduclong092@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.drupal.org/u/alextran"><img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal.org"/></a>
+    <a href="https://app.daily.dev/alextran53"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"/></a>
+    <a href="https://www.instagram.com/dk10119"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## 🙋 About me
 
 <img align="right" width="400" src="assets/penguin.gif" alt="Coding penguin">
 
 I have 6+ years of experience in software development and web design.<br/>
 I hold a BBA in Business Information Technology and a degree in full-stack programming.<br/>
-I am currently working as a software engineer at One Lion Company.<br/>
-📫 You can contact me via **tranduclong092@gmail.com**<br/>
-🌐 Checkout my portfolio at **[https://alextran.dev](https://alextran.dev)**
+I am currently working as a software engineer at One Lion Company.
 
-### My skills:
-- I engineer products end to end — mobile apps, APIs, databases and cloud infrastructure
-- I build with AI-driven workflows: Claude, MCP servers, CI/CD and automation
-- I am great with software architecture, Kubernetes deployments and hosting
-- I am confident in leading Scrum and Agile projects
-- I am experienced in designing websites and CMS
+- 🚀 I engineer products end to end — mobile apps, APIs, databases and cloud infrastructure
+- 🤖 I build with AI-driven workflows: Claude, MCP servers, CI/CD and automation
+- ☸️ I am great with software architecture, Kubernetes deployments and hosting
+- 🌀 I am confident in leading Scrum and Agile projects
+- 🎨 I am experienced in designing websites and CMS
 
-### Other interesting stuff about me:
-- I love networking, meet-up events and hackathons. I am a frequent goer of HelsinkiJS, Junction, Slush, Drupal events and coding club.
-- I am passionate about everything related to technology e.g computer science, space, and machine learning.
-- I love gaming. I play a lot of games in many different platforms. I can also build and mod gaming PCs.
+## 🎮 Beyond the code
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextrandev&theme=github_dark" alt="alextrandev" width="330" />
+- 🤝 I love networking, meet-up events and hackathons. I am a frequent goer of HelsinkiJS, Junction, Slush, Drupal events and coding club.
+- 🔭 I am passionate about everything related to technology e.g computer science, space, and machine learning.
+- 🕹️ I love gaming. I play a lot of games in many different platforms. I can also build and mod gaming PCs.
 
-### Connect with me:
-<p align="left">
-    <a href="https://linkedin.com/in/tduclong" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tduclong" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.drupal.org/u/alextran" target="blank"><img align="center" src="https://cdn.simpleicons.org/drupal" alt="alextran" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://app.daily.dev/alextran53" target="blank"><img align="center" src="https://cdn.simpleicons.org/dailydotdev" alt="alextran53" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/dk10119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk10119" height="40" width="50" /></a>
-</p>
+## 🛠️ Tech stack
 
-### My tech stack:
-<p>AI engineering: Claude Code & Claude API, MCP servers, Cursor, OpenAI Codex, Google Antigravity<br/>
-    <img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/modelcontextprotocol/8A8A8A" alt="Model Context Protocol" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/cursor/8A8A8A" alt="Cursor" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" width="40" height="40"/>
-</p>
-<p>Programming languages: JavaScript, TypeScript, PHP, Python<br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-<p>Libraries & frameworks: React, React Native, Expo, Next.js, Node.js, Django, Laravel, Symfony, Drupal<br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/expo/8A8A8A" alt="Expo" width="40" height="40"/>
-    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="Nextjs" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/symfony/8A8A8A" alt="Symfony" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968691.png" alt="Drupal" width="40" height="40"/>
-</p>
-<p>APIs & databases: PostgreSQL, MySQL, MongoDB, Prisma ORM, REST & GraphQL APIs, Stripe integrations<br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="40" height="40"/>
-</p>
-<p>Front end & design: Bootstrap, Tailwind, Material UI (MUI), shadcn/ui, Framer Motion, WordPress, Webflow, Figma<br/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/shadcnui/8A8A8A" alt="shadcn/ui" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/framer/8A8A8A" alt="Framer Motion" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/wordpress.svg" alt="WordPress" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" alt="Webflow" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
-<p>Cloud & DevOps: Docker, Kubernetes, Argo CD, Nginx, Git, GitHub Actions, Jenkins, AWS, Azure<br/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-</p>
-<p>Testing & quality: Vitest, Jest, Cypress, SonarQube<br/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-    <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
+#### 🤖 AI engineering
+<p>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code & Claude API"/>
+    <img src="https://img.shields.io/badge/MCP%20servers-8A8A8A?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP servers"/>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+    <img src="https://img.shields.io/badge/OpenAI%20Codex-10A37F?style=for-the-badge" alt="OpenAI Codex"/>
+    <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Antigravity"/>
 </p>
 
-### GitHub stats
-<p align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" alt="GitHub stats" height="180"/>
-    <img src="assets/streak.svg" alt="GitHub streak" height="180"/>
+#### 💻 Languages & frameworks
+<p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+    <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
 </p>
 
-### Contributions
+#### 🗄️ APIs & databases
+<p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="Amazon Web Services"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge" alt="Microsoft Azure"/>
+</p>
+
+#### ✅ Testing & quality
+<p>
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+    <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" alt="Cypress"/>
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="SonarQube"/>
+</p>
+
+#### 🎨 Front end & design
+<p>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+## 🚀 Featured projects
+
+<table>
+    <tr>
+        <td align="center" width="33%">
+            <a href="https://www.sijaismestari.fi/"><img src="assets/projects/Sijaismestari-thumbnail.webp" alt="Sijaismestari"/></a>
+            <br/><b>Sijaismestari</b><br/>
+            <sub>Substitute staffing platform for Finnish education — matching qualified workers with open shifts</sub><br/>
+            <sub><code>React Native</code> <code>Expo</code> <code>Django</code></sub><br/>
+            <a href="https://www.sijaismestari.fi/">Website</a> ·
+            <a href="https://apps.apple.com/fi/app/sijaismestari/id6784601798">App Store</a> ·
+            <a href="https://play.google.com/store/apps/details?id=com.nonitech.sijaismestari">Google Play</a>
+        </td>
+        <td align="center" width="33%">
+            <a href="https://www.netinturva.fi/"><img src="assets/projects/NetinTurva-thumbnail.webp" alt="Netin Turva"/></a>
+            <br/><b>Netin Turva</b><br/>
+            <sub>Interactive digital security assessment and webstore for cybersecurity subscriptions</sub><br/>
+            <sub><code>Next.js</code> <code>Tailwind</code> <code>PostgreSQL</code></sub><br/>
+            <a href="https://www.netinturva.fi/">Website</a>
+        </td>
+        <td align="center" width="33%">
+            <a href="https://hobbly.app/"><img src="assets/projects/Hobbly-thumbnail.webp" alt="Hobbly"/></a>
+            <br/><b>Hobbly</b><br/>
+            <sub>Local activities platform — from idea to the app stores</sub><br/>
+            <sub><code>React Native</code> <code>Laravel</code> <code>AWS</code></sub><br/>
+            <a href="https://hobbly.app/">Website</a> ·
+            <a href="https://apps.apple.com/us/app/hobbly/id6746831794">App Store</a> ·
+            <a href="https://play.google.com/store/apps/details?id=com.hobbly.app">Google Play</a>
+        </td>
+    </tr>
+</table>
+
+<p align="center">See more of my work at <a href="https://alextran.dev/projects"><b>alextran.dev/projects</b></a></p>
+
+## 📊 GitHub stats
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alextrandev&theme=github_dark" alt="GitHub stats" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alextrandev&theme=github_dark" alt="Top languages" height="170"/>
+    <img src="https://raw.githubusercontent.com/alextrandev/alextrandev/streak-output/streak.svg" alt="GitHub streak" height="170"/>
+</p>
+
+## 🐍 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alextrandev/alextrandev/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<p align="center">
+    <i>Thanks for stopping by — let's build something together!</i> ⚡<br/>
+    <a href="https://alextran.dev/contact"><b>Get in touch →</b></a>
+</p>
